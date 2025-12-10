@@ -7,16 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test7Application {
 
 	public static void main(String[] args) {
-		String name="mike";
-		int x=100;
-		boolean isPresent=false;
-		int y=200;
-		char x='a';
-		int y=200;
-		double z=10.3;
-		boolean isPresent=false;
-		float m=10.3f;
-		boolean isSub=true;
+		int x = 100;
 		SpringApplication.run(Test7Application.class, args);
 	}
 
